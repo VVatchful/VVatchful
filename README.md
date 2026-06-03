@@ -1,6 +1,6 @@
 <!-- Banner via capsule-render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Data&descAlignY=56&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Anthony%20Boelen&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Data&descAlignY=56&descAlign=50" />
 </p>
 
 <p align="center">
