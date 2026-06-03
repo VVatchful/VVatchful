@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=220&section=header&text=[Your%20Name]&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=220&section=header&text=Anthony%20Boelen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" />
 </p>
 
 <!-- Typing animation -->
