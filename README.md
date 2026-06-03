@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24,30&height=180&text=Data%20%E2%9C%95%20Intelligence&fontSize=42&fontColor=fff&desc=%E2%96%BA%20Anthony Boelen%20%E2%80%94%20AI%2FML%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descSize=16&descAlign=50&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24,30&height=180&text=Data%20%E2%9C%95%20Intelligence&fontSize=42&fontColor=fff&desc=%E2%96%BA%20[Anthony Boelen]%20%E2%80%94%20AI%2FML%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descSize=16&descAlign=50&descAlignY=72" />
 
 <!-- Badges row -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
