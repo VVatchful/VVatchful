@@ -10,7 +10,7 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="www.linkedin.com/in/anthony-boelen/">
+  <a href="[www.linkedin.com/in/anthony-boelen/](https://www.linkedin.com/in/anthony-boelen/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/anthonyboelen">
