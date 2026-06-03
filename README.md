@@ -92,12 +92,12 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 ## `> git log --stats`
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VVatchful&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVatchful&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VVatchful&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVatchful&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VVatchful&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=VVatchful&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
