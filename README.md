@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Training+models%2C+not+just+neurons.;Correlation+is+not+causation...+or+is+it%3F;Gradient+descent+into+madness.;Attention+is+all+you+need.;Turning+noise+into+signal+since+[year]." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Training+models%2C+not+just+neurons.;Correlation+is+not+causation...+or+is+it%3F;Gradient+descent+into+madness.;Attention+is+all+you+need.;Turning+noise+into+signal+since+2023." alt="Typing SVG" />
 </p>
 
 <!-- Social badges -->
