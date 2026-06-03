@@ -1,87 +1,66 @@
-<!-- Header -->
-<div align="center">
+<!-- Banner via capsule-render -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Data&descAlignY=56&descAlign=50" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24,30&height=180&text=Data%20%E2%9C%95%20Intelligence&fontSize=42&fontColor=fff&desc=%E2%96%BA%20[Anthony Boelen]%20%E2%80%94%20AI%2FML%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descSize=16&descAlign=50&descAlignY=72" />
-
-<!-- Badges row -->
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-
-</div>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Training+models%2C+not+just+neurons.;Correlation+is+not+causation...+or+is+it%3F;Gradient+descent+into+madness.;Turn+data+into+insight." alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### About
+## `> whoami`
 
-> Gaming is my hobby, Coding is my life
-> Fascinated by the math behind intelligence
-
-- Working on: **Deep Learning by creating my own data assets**
-- Learning: **Diffusion models / Graph Neural Networks**
-- Reading: **"The Elements of Statistical Learning"** *(always)*
-
----
-
-### Correlation Heatmap of My Interests
-
+```python
+profile = {
+    "focus":      ["Deep Learning", "NLP", "Computer Vision", "Data Analysis"],
+    "currently":  "Exploring transformer architectures & self-supervised learning",
+    "tools":      ["PyTorch", "TensorFlow", "scikit-learn", "pandas", "HuggingFace"],
+    "languages":  ["Python", "SQL", "R"],
+    "ask_me":     "Anything about neural nets, embeddings, or data pipelines",
+}
 ```
-              DL   NLP   CV   RL   Stats  Viz   SQL
-Deep Learn  [ 1.0  0.9  0.8  0.7   0.7   0.5   0.4 ]
-NLP         [ 0.9  1.0  0.5  0.5   0.8   0.6   0.5 ]
-Comp Vis    [ 0.8  0.5  1.0  0.6   0.6   0.8   0.3 ]
-Reinf Learn [ 0.7  0.5  0.6  1.0   0.7   0.4   0.2 ]
-Statistics  [ 0.7  0.8  0.6  0.7   1.0   0.7   0.6 ]
-Viz / EDA   [ 0.5  0.6  0.8  0.4   0.7   1.0   0.7 ]
-SQL / Data  [ 0.4  0.5  0.3  0.2   0.6   0.7   1.0 ]
-```
----
-
-### Stack
-
-| Layer | Tools |
-|-------|-------|
-| **Modeling** | PyTorch · TensorFlow · Keras · scikit-learn · XGBoost |
-| **NLP / LLMs** | HuggingFace · spaCy · NLTK · LangChain |
-| **Data** | pandas · NumPy · Polars · DuckDB · PostgreSQL |
-| **Viz** | Matplotlib · Seaborn · Plotly · Altair |
-| **Infra** | Docker · MLflow · Weights & Biases · Git |
 
 ---
 
-### GitHub Stats
+## `> skills --verbose`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact&hide_border=true" height="170"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,docker,linux,vscode&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6" />
-</div>
+**ML / AI**
+`Deep Learning` `NLP` `Computer Vision` `Reinforcement Learning` `Transformers`
 
----
-
-### Featured Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [🧠 Project A](https://github.com) | Sentiment analysis on financial news | BERT · FastAPI |
-| [📊 Project B](https://github.com) | EDA dashboard for public datasets | Streamlit · Plotly |
-| [🤖 Project C](https://github.com) | Custom image classifier | CNN · PyTorch |
+**Data**
+`pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `SQL` `Spark`
 
 ---
 
-<div align="center">
+## `> git log --stats`
 
-**Let's connect and talk data.**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+---
 
-</div>
+## `> activity --snake`
+
+<!-- Snake eating your contributions — set up via GitHub Actions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+</p>
