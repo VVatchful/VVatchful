@@ -46,6 +46,8 @@ profile = {
 <!-- ═══════════════════ CORRELATION HEATMAP ═══════════════════ -->
 ## `> interests --heatmap`
 
+<p align="center">
+
 ```
               DL   NLP   CV    RL   Stats  Viz   SQL
 Deep Learn  [ 1.0  0.9  0.8   0.7   0.7   0.5   0.4 ]
@@ -56,8 +58,7 @@ Statistics  [ 0.7  0.8  0.6   0.7   1.0   0.7   0.6 ]
 Viz / EDA   [ 0.5  0.6  0.8   0.4   0.7   1.0   0.7 ]
 SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 ```
-*Higher value = stronger relationship (in my brain)*
-
+</p>
 ---
 
 <!-- ═══════════════════ SKILLS ═══════════════════ -->
