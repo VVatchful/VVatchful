@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=220&section=header&text=Anthony%20Boelen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=220&section=header&text=[Your%20Name]&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" />
 </p>
 
 <!-- Typing animation -->
@@ -10,19 +10,19 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/VVatchful">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/yourusername">
+  <a href="https://kaggle.com/VVatchful">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://huggingface.co/yourusername">
+  <a href="https://huggingface.co/VVatchful">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
   <a href="mailto:you@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=VVatchful&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -82,9 +82,9 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🧠 Project A](https://github.com/yourusername) | Sentiment analysis on financial news | BERT · FastAPI |
-| [📊 Project B](https://github.com/yourusername) | EDA dashboard for public datasets | Streamlit · Plotly |
-| [🤖 Project C](https://github.com/yourusername) | Custom image classifier | CNN · PyTorch |
+| [🧠 Project A](https://github.com/VVatchful) | Sentiment analysis on financial news | BERT · FastAPI |
+| [📊 Project B](https://github.com/VVatchful) | EDA dashboard for public datasets | Streamlit · Plotly |
+| [🤖 Project C](https://github.com/VVatchful) | Custom image classifier | CNN · PyTorch |
 
 ---
 
@@ -93,7 +93,7 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VVatchful&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watchful&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVatchful&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
