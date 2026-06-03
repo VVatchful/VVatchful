@@ -10,16 +10,16 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/VVatchful">
+  <a href="www.linkedin.com/in/anthony-boelen">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://kaggle.com/VVatchful">
+  <a href="https://www.kaggle.com/anthonyboelen">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://huggingface.co/VVatchful">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
-  <a href="mailto:you@email.com">
+  <a href="mailto:tdbt1122@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=VVatchful&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
@@ -104,17 +104,6 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VVatchful&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
-
----
-
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
-## `> activity --snake`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VVatchful/VVatchful/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 <p align="center">
