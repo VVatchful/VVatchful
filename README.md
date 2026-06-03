@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24,30&height=180&text=Data%20%E2%9C%95%20Intelligence&fontSize=42&fontColor=fff&desc=%E2%96%BA%20[Your%20Name]%20%E2%80%94%20AI%2FML%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descSize=16&descAlign=50&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24,30&height=180&text=Data%20%E2%9C%95%20Intelligence&fontSize=42&fontColor=fff&desc=%E2%96%BA%20Anthony Boelen%20%E2%80%94%20AI%2FML%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descSize=16&descAlign=50&descAlignY=72" />
 
 <!-- Badges row -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -16,14 +16,12 @@
 
 ### About
 
-> I find patterns where others see noise.  
-> Fascinated by the math behind intelligence — from gradient descent to attention mechanisms.  
-> Data tells stories; I help translate them.
+> Gaming is my hobby, Coding is my life
+> Fascinated by the math behind intelligence
 
-- Working on: **[your current project]**
+- Working on: **Deep Learning by creating my own data assets**
 - Learning: **Diffusion models / Graph Neural Networks**
 - Reading: **"The Elements of Statistical Learning"** *(always)*
-- Fun fact: I've tuned more hyperparameters than I've eaten hot meals
 
 ---
 
@@ -39,9 +37,6 @@ Statistics  [ 0.7  0.8  0.6  0.7   1.0   0.7   0.6 ]
 Viz / EDA   [ 0.5  0.6  0.8  0.4   0.7   1.0   0.7 ]
 SQL / Data  [ 0.4  0.5  0.3  0.2   0.6   0.7   1.0 ]
 ```
-
-*Darker = stronger relationship (in my brain)*
-
 ---
 
 ### Stack
