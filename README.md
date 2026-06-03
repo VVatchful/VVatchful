@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=220&section=header&text=[Your%20Name]&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=220&section=header&text=Anthony%20Boelen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" />
 </p>
 
 <!-- Typing animation -->
@@ -92,16 +92,16 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 ## `> git log --stats`
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VVatchful&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watchful&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VVatchful&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VVatchful&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 ## `> activity --snake`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/VVatchful/VVatchful/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
