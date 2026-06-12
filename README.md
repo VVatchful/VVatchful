@@ -83,8 +83,8 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [1](https://github.com/VVatchful/Rubble) | Warehouse Consolidator | Scikit-Learn · SQLite · Pandas · FastAPI |
-| [2](https://github.com/VVatchful/ThePath "Secret") |  | Pytorch · Optuna · fastAPI · ONNX |
+| [1: Rubble](https://github.com/VVatchful/Rubble) | Warehouse Consolidator | Scikit-Learn · SQLite · Pandas · FastAPI |
+| [2: Secret](https://github.com/VVatchful/ThePath) |  | Pytorch · Optuna · fastAPI · ONNX |
 
 ---
 
