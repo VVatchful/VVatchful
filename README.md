@@ -83,9 +83,8 @@ SQL / Data  [ 0.4  0.5  0.3   0.2   0.6   0.7   1.0 ]
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🧠 Project A](https://github.com/VVatchful) | Sentiment analysis on financial news | BERT · FastAPI |
-| [📊 Project B](https://github.com/VVatchful) | EDA dashboard for public datasets | Streamlit · Plotly |
-| [🤖 Project C](https://github.com/VVatchful) | Custom image classifier | CNN · PyTorch |
+| [1](https://github.com/VVatchful/Rubble) | Warehouse Consolidator | Scikit-Learn · SQLite · Pandas · FastAPI |
+| [2](https://github.com/VVatchful/ThePath) |  | Pytorch · Optuna · fastAPI · ONNX |
 
 ---
 
